@@ -3,6 +3,7 @@ Overview
 While visiting a shopping mall, many salesmen often try to recommend the customers exciting deals and offers that might of interest them. Similarly, e-commerce sites use recommender systems to suggest products to their customers that they are highly likely to buy. 
 
 Problem Statement 
+
 This project will build collaborative filtering algorithm based recommender system.
 
 Data Description 
